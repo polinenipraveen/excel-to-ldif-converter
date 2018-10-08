@@ -1,1 +1,1 @@
-# excel-to-ldif-converter
+# sbs-excel-to-ldif-converter
